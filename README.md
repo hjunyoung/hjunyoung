@@ -1,5 +1,5 @@
 ## Hi, I'm Joonyoung 👋
-### Things I'm interested in
+### I'm interested in
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=2e302c&labelColor=%23F7DF1C" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=2d79c7&logoColor=white&color=2d79c7" />
